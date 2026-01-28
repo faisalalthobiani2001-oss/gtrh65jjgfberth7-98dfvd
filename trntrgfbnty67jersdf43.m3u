@@ -1,3 +1,3 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/turksatkablo.com.tr.epg.xml,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml"
+#EXTM3U
 #EXTINF:-1 tvg-name="NTV"tvg-id="NTV.tr"tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv_tr.png"group-title="HABER",NTV
 https://gitwith.dev/mosl02/gp/NGTE2R453scdNdKZ.m3u8
